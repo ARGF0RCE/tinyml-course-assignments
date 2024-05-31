@@ -4,9 +4,9 @@ This repository contains the assignment solutions for the TinyML course offered 
 
 ## Assignments
 
-| Assignment Number | Description                                              | Link to Notebook                   |
-| ----------------- | -------------------------------------------------------- | ---------------------------------- |
-| 1                 | Introduction to TinyML: Basic concepts and initial setup | [Assignment 1](Assignment_1.ipynb) |
+| Assignment Number | Description                                             | Link to Notebook                   |
+| ----------------- | --------------------------------------------------------| ---------------------------------- |
+| 1                 | Assignment 1: Create Regression NN and Fashion-MNIST NN | [Assignment 1](Assignment_1.ipynb) |
 
 ## How to Use
 
